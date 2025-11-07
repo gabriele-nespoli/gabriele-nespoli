@@ -15,7 +15,7 @@ MSc in Economic & Social Sciences @ Bocconi • RA in political economy & NLP �
 - **Prior** — Strategy & Consulting Intern (Applied Intelligence) @ Accenture; Computer Science Tutor @ Bocconi.
 
 ### 🧰 Tech I use
-`Python` `R` `Stata` `SQL` `Excel`  
+`Python` `SQL` `Excel` `Stata` `R`
 NLP/LLMs: `BERT` `LLM-based classification` `NLI` `few-shot` `OpenAI API`
 
 ### 🧩 Selected Work
