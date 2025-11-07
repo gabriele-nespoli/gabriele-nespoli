@@ -10,9 +10,9 @@ MSc in Economic & Social Sciences @ Bocconi • RA in political economy & NLP �
 
 ### 🚀 Highlights
 - **Research Assistant @ fRDB (Boeri & Tabellini)** — built an NLP pipeline on ~4M Twitter/X observations; trained BERT-based models; topic classification via manual labels and LLMs; NLI & few-shot experiments.  
-- **Paper (2025): _Regional Minimum Wages and Labor Misallocation in Italy_** — forthcoming at *Bocconi Economic Journal*.  
+- **Paper: _Regional Minimum Wages and Labor Misallocation in Italy_** — *Bocconi Economic Journal*, Issue 1, 2025.  
 - **Talks** — 24th Carroll Round, Georgetown University (Apr 2025); XV fRDB Workshop, University of Florence (Sep 2025).  
-- **Prior** — Strategy & Consulting Intern (Applied Intelligence) @ Accenture; Computer Science Tutor @ Bocconi.  
+- **Prior** — Strategy & Consulting Intern (Applied Intelligence) @ Accenture; Computer Science Tutor @ Bocconi.
 
 ### 🧰 Tech I use
 `Python` `R` `Stata` `SQL` `Excel`  
