@@ -16,8 +16,8 @@ Predoctoral Fellow @ Harvard • MSc in Economic & Social Sciences @ Bocconi •
 - **Prior** — Strategy & Consulting Intern (Applied Intelligence) @ Accenture; Computer Science Tutor @ Bocconi.
 
 ### 🧰 Tech I use
-`Python` `SQL` `Excel` `Stata` `R`
-\nNLP/LLMs: `BERT` `LLM-based classification` `NLI` `few-shot` `OpenAI API`
+`Python` `SQL` `Excel` `Stata` `R`  
+NLP/LLMs: `BERT` `LLM-based classification` `NLI` `few-shot` `OpenAI API`
 
 ### 🧩 Selected Work
 - **Political-economy NLP pipeline** — end-to-end data ingest, labeling, topic classification, and evaluation on large-scale social data (~4M tweets).  
