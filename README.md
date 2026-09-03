@@ -17,6 +17,7 @@ Predoctoral Fellow @ Harvard • MSc in Economic & Social Sciences @ Bocconi •
 
 ### 🧰 Tech I use
 `Python` `SQL` `Excel` `Stata` `R`  
+
 NLP/LLMs: `BERT` `LLM-based classification` `NLI` `few-shot` `OpenAI API`
 
 ### 🧩 Selected Work
