@@ -3,12 +3,13 @@
 <h1 align="center">Hi, I'm Gabriele 👋</h1>
 
 <p align="center">
-MSc in Economic & Social Sciences @ Bocconi • RA in political economy & NLP • Milan, Italy
+Predoctoral Fellow @ Harvard • MSc in Economic & Social Sciences @ Bocconi • Cambridge, MA
 </p>
 
 ---
 
 ### 🚀 Highlights
+- **Predoctoral Fellow @ Harvard (Stefanie Stantcheva)** - working at the Social Economics Lab
 - **Research Assistant @ fRDB (Boeri & Tabellini)** — built an NLP pipeline on ~4M Twitter/X observations; trained BERT-based models; topic classification via manual labels and LLMs; NLI & few-shot experiments.  
 - **Paper: _Regional Minimum Wages and Labor Misallocation in Italy_** — *Bocconi Economic Journal*, Issue 1, 2025.  
 - **Talks** — 24th Carroll Round, Georgetown University (Apr 2025); XV fRDB Workshop, University of Florence (Sep 2025).  
@@ -36,7 +37,7 @@ Italian (native) • English (C1, IELTS 8.0) • French (B1)
 ---
 
 ### 📬 Contact
-- Email: gabriele.nespoli@studbocconi.it  
+- Email: gnespoli@fas.harvard.edu  
 - LinkedIn: https://www.linkedin.com/in/gabrielenespoli
 
 
